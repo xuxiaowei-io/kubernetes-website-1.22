@@ -1,7 +1,7 @@
 {
   "name": "kubernetes-v1.22",
   "description": "Kubernetes v1.22 离线文档",
-  "version": "1.22.17",
+  "version": "1.22.18",
   "type": "module",
   "author": {
     "name": "徐晓伟",
